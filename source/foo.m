@@ -1,3 +1,3 @@
 function y = foo(x)
-y = sin(x);
+y = x;
 end
